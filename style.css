@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    background: url(assets/background.jpg);
+    background-size: cover;
+    overflow-y: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.desktop {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: cyan;
+}
+
+.icons img {
+    height: 300px;
+    width: 300px;
+}
+
+.content {
+    margin-bottom: 40px;
+}
+
+.content-docker {
+    margin-bottom: 30px;
+}
+
+.content-terminal {
+    margin-bottom: 30px;
+}
+
+.icons {
+    margin-left: 350px;
+    margin-right: 280px;
+    column-count: 2;
+    column-gap: 50px;
+}
+
+.docker {
+    text-align: center;
+}
+
+.terminal {
+    text-align: center; 
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+}
+
+#in {
+    height: 38px;
+    width: 350px;
+    margin-left: 28px;
+    background-color: #363636;
+    border-radius: 5px;
+    outline-color: #363636;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: beige;
+    overflow-x: scroll;
+}
+
+h2 {
+    color: burlywood;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.run {
+   background-color: aquamarine;
+   border-radius: 5px;
+   height: 30px;
+   width: 50px;
+   margin-left: 20px;
+}
+
+#display {
+  background-color: #363636;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-left: 320px;
+  margin-bottom: 10px;
+  height: 300px;
+  width: 700px;
+  border-radius: 20px;
+  padding-top: 20px;
+  color: beige;
+  overflow-x: scroll;
+}
+
+.back {
+    background-color: rosybrown;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+ }

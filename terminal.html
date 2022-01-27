@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Docker World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="desktop">
+        <div class="content-terminal">
+            <h1>A terminal in Linux is a program that interprets the commands you enter in a window,
+             so the operating system can understand what you want to do.</h1>
+            <h3>Don't know the Linux commands? Don't worry!!</h3>
+        </div>
+        <div class="terminal">
+            <div>
+                <h2>Enter your command below </h2>
+                <input id="in" type="text" />
+                <button class="run" onclick=miniproject()><b>Run</b></button>
+            </div>
+            <div>
+                <h2>Your output</h2>
+                <pre>
+                    <div id="display"></div>
+                </pre>
+            </div>
+            <button class="back" onclick="goBack()">Back to Home</button>
+        </div>
+    </div>
+</body>
+<script src = "script.js"></script>
+</html>
