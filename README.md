@@ -3,9 +3,7 @@ Personal Cloud Using Raspberry PI
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-
-![](https://drive.google.com/file/d/15DYeYuCPwvc9qnzmk52qCRljhoQDPp8r/view?usp=sharing)
-
+![](https://github.com/palaksinghania05/Personal-Cloud-Server-Web-Portal/blob/master/assets/Screenshot%20(1731).png)
 
 ## Prerequisites
 Tools and packages required:
@@ -24,9 +22,9 @@ Steps to run this project:
  
 ## Screenshots
 
-![Terminal Interface](https://drive.google.com/file/d/1dbL2Qb2Mhdcjk7jLzkVEXUvwFzhZIZVW/view?usp=sharing)
+![Terminal Interface](https://github.com/palaksinghania05/Personal-Cloud-Server-Web-Portal/blob/master/assets/Screenshot%20(1740).png)
 
-![Docker interface](https://drive.google.com/file/d/18VKslrZ6k46UGMN3VFGHRP-O3MStI-Fr/view?usp=sharing)
+![Docker interface](https://github.com/palaksinghania05/Personal-Cloud-Server-Web-Portal/blob/master/assets/Screenshot%20(1743).png)
 
 ## Features
 This web portal has following features:
