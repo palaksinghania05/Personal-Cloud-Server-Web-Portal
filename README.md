@@ -1,7 +1,7 @@
 ## Personal Cloud Using Raspberry PI
 > This repository contains the code for the web portal that we built to integrate compute service in our personal cloud project.
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/palaksinghania05/Personal-Cloud-Server-Web-Portal/graphs/traffic)
 
 ![](https://github.com/palaksinghania05/Personal-Cloud-Server-Web-Portal/blob/master/assets/Screenshot%20(1731).png)
 
@@ -45,4 +45,6 @@ The team members are:
 * [Spandan Dutta](https://www.linkedin.com/in/spandan-dutta07/)
 * [Sangam Mishra](https://www.linkedin.com/in/sangam-mishra-6b49771aa/)
 
-
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+MIT © Palak Singhania
