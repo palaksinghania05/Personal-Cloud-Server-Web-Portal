@@ -47,4 +47,5 @@ The team members are:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
 MIT © Palak Singhania
